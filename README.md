@@ -30,7 +30,7 @@
 3. Navigate with the top menu links (Home, Menu, Order, About, Contact)  
 
 
- Future Improvements
+## Future Improvements
 
 - Integrate real **online payments** (e.g., Stripe, PayFast)  
 - Add **real product images** from the bakery  
