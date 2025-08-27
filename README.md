@@ -9,9 +9,6 @@
 - **Order Page**: Shopping cart with add/remove/checkout functionality  
 - **About Page**: Story of Sweet Savories  
 - **Contact Page**: Bakery address, phone, email & Google Map  
-- **Wallpaper**: Cozy bakery-style background applied site-wide  
-- **Responsive Design**: Works on desktop & mobile  
-
 
 
 ##  Shopping Cart
